@@ -21,6 +21,10 @@ Here are a few notable projects:
 ### [Renting-Database](https://github.com/seanw1223/Renting-Database)
 A database-driven web application built using PHP, MySQL, and JavaScript, allowing users to manage rental properties, tenants, and payments efficiently.
 
+### [SimonSays](https://github.com/seanw1223/SimonSays)
+A simple Simon Says game built with HTML, CSS, and JavaScript that tests memory and response skills.
+
+
 ---
 
 ## 📫 Let's Connect

@@ -24,6 +24,9 @@ A database-driven web application built using PHP, MySQL, and JavaScript, allowi
 ### [SimonSays](https://github.com/seanw1223/SimonSays)
 A simple Simon Says game built with HTML, CSS, and JavaScript that tests memory and response skills.
 
+### [Interactive Food Pyramid](https://github.com/seanw1223/InteractiveFoodPyramid)
+An interactive food pyramid application created with HTML, CSS, and JavaScript, designed to provide a visual and engaging way to learn about balanced nutrition.
+
 
 ---
 

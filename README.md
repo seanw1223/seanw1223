@@ -18,8 +18,8 @@ I'm a **Computer Science student** and a web developer with a passion for creati
 ## 🛠️ Projects
 Here are a few notable projects:
 
-### [Renting-Database](https://github.com/seanw1223/Renting-Database)
-A database-driven web application built using PHP, MySQL, and JavaScript, allowing users to manage rental properties, tenants, and payments efficiently.
+### [EasyRent Web Application](https://github.com/seanw1223/EasyRent)
+A web app that connects tenants and landlords. Tenants can browse and filter properties, leave reviews, and message landlords. Landlords can list properties with photos and rental terms. Built with Firebase for authentication and data storage.
 
 ### [SimonSays](https://github.com/seanw1223/SimonSays)
 A simple Simon Says game built with HTML, CSS, and JavaScript that tests memory and response skills.
@@ -27,8 +27,8 @@ A simple Simon Says game built with HTML, CSS, and JavaScript that tests memory 
 ### [Interactive Food Pyramid](https://github.com/seanw1223/InteractiveFoodPyramid)
 An interactive food pyramid application created with HTML, CSS, and JavaScript, designed to provide a visual and engaging way to learn about balanced nutrition.
 
-### [EasyRent Web Application](https://github.com/seanw1223/EasyRent)
-A web app that connects tenants and landlords. Tenants can browse and filter properties, leave reviews, and message landlords. Landlords can list properties with photos and rental terms. Built with Firebase for authentication and data storage.
+### [Renting-Database](https://github.com/seanw1223/Renting-Database)
+A database-driven web application built using PHP, MySQL, and JavaScript, allowing users to manage rental properties, tenants, and payments efficiently.
 
 ---
 

@@ -8,7 +8,7 @@ I'm a **Computer Science student** and a web developer with a passion for creati
 
 ## 🚀 Skills
 
-- **Programming Languages**: JavaScript, PHP, HTML, CSS, SQL
+- **Programming Languages**: JavaScript, PHP, HTML, CSS, SQL, Java, Node.js, C++
 - **Tools**: VSCode, Eclipse, Git, MySQL
 - **Technologies**: REST APIs, Databases, CRUD, Web Development
 - **Problem Solving**: Data Structures, Algorithms

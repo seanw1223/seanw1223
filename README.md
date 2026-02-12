@@ -1,36 +1,64 @@
-# 👋 Hi, I'm Sean!
+# 👋 Hi, I'm Sean
 
-### Welcome to my GitHub profile!
+### Software Engineering Student | Full-Stack Developer
 
-I'm a **Computer Science student** and a web developer with a passion for creating intuitive and efficient solutions using **JavaScript, HTML, CSS, PHP**, and **databases**. Here, you'll find some of the projects I've worked on, from **CRUD operations** to full-fledged **REST APIs**. 
-
----
-
-## 🚀 Skills
-
-- **Programming Languages**: JavaScript, PHP, HTML, CSS, SQL, Java, Node.js, C++
-- **Tools**: VSCode, Eclipse, Git, MySQL,MongoDB
-- **Technologies**: REST APIs, Databases, CRUD, Web Development
-- **Problem Solving**: Data Structures, Algorithms
+I'm a Computer Science student with a passion for **software engineering, scalable applications, and building clean, well-structured systems** across the full stack.
+I enjoy working across frontend, backend, APIs, and databases — turning ideas into practical, maintainable solutions.
 
 ---
 
-## 🛠️ Projects
-Here are a few notable projects:
+## 🧠 Tech Stack
 
-### [EasyRent Web Application](https://github.com/seanw1223/EasyRent)
-A web app that connects tenants and landlords. Tenants can browse and filter properties, leave reviews, and message landlords. Landlords can list properties with photos and rental terms. Built with Firebase for authentication and data storage.
+**Languages**
+Java · C++ · JavaScript · PHP · SQL · HTML · CSS · MATLAB
 
-### [SimonSays](https://github.com/seanw1223/SimonSays)
-A simple Simon Says game built with HTML, CSS, and JavaScript that tests memory and response skills.
+**Frontend**
+React · Angular · Vue · Bootstrap
 
-### [Interactive Food Pyramid](https://github.com/seanw1223/InteractiveFoodPyramid)
-An interactive food pyramid application created with HTML, CSS, and JavaScript, designed to provide a visual and engaging way to learn about balanced nutrition.
+**Backend & APIs**
+Node.js · Express · NestJS · FastAPI · Spring Boot · REST APIs
 
-### [Renting-Database](https://github.com/seanw1223/Renting-Database)
-A database-driven web application built using PHP, MySQL, and JavaScript, allowing users to manage rental properties, tenants, and payments efficiently.
+**Databases**
+PostgreSQL · MySQL · MongoDB · Firebase
+
+**Tools & Environment**
+Git · GitHub · AWS · Azure · Linux · VS Code · IntelliJ · Xcode · Postman
 
 ---
 
-## 📫 Let's Connect
-- **Email**: walshsean122@gmail.com
+## 🚀 Featured Projects
+
+### 📊 [Project Dashboard](https://github.com/seanw1223/Project-Dashboard)
+
+A project management dashboard focused on tracking tasks, progress, and key metrics with a clean and structured interface.
+
+### 🏠 [EasyRent Web Application](https://github.com/seanw1223/EasyRent)
+
+A rental platform connecting tenants and landlords with listings, authentication, reviews, and messaging functionality.
+
+### 🎮 [SimonSays](https://github.com/seanw1223/SimonSays)
+
+A browser-based memory game built with HTML, CSS, and JavaScript.
+
+### 🥗 [Interactive Food Pyramid](https://github.com/seanw1223/InteractiveFoodPyramid)
+
+An interactive web application designed to visualise balanced nutrition concepts.
+
+### 🗄️ [Renting-Database](https://github.com/seanw1223/Renting-Database)
+
+A database-driven web application using PHP, MySQL, and JavaScript to manage rental properties and tenants.
+
+---
+
+## 🎯 Current Focus
+
+* Software engineering & system design
+* Writing clean, maintainable code
+* Full-stack application development
+* Strengthening architecture and scalability skills
+
+---
+
+## 📫 Contact
+
+📧 [walshsean122@gmail.com](mailto:walshsean122@gmail.com)

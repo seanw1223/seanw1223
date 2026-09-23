@@ -2,7 +2,7 @@
 
 ### Software Engineering Student | Full-Stack Developer
 
-I'm a Computer Science student with a passion for **software engineering, scalable applications, and building clean, well-structured systems** across the full stack.
+I'm a Final Year Computer Science student with a passion for **software engineering, scalable applications, and building clean, well-structured systems** across the full stack.
 I enjoy working across frontend, backend, APIs, and databases — turning ideas into practical, maintainable solutions.
 
 ---
@@ -10,19 +10,19 @@ I enjoy working across frontend, backend, APIs, and databases — turning ideas 
 ## 🧠 Tech Stack
 
 **Languages**
-Java · C++ · JavaScript · PHP · SQL · HTML · CSS · MATLAB
+Python · Java · C++ · JavaScript · PHP · SQL · HTML · CSS · MATLAB
 
 **Frontend**
 React · Angular · Vue · Bootstrap
 
 **Backend & APIs**
-Node.js · Express · NestJS · FastAPI · Spring Boot · REST APIs
+Node.js · Express · NestJS · FastAPI · Spring Boot · REST APIs · Django
 
 **Databases**
 PostgreSQL · MySQL · MongoDB · Firebase
 
 **Tools & Environment**
-Git · GitHub · AWS · Azure · Linux · VS Code · IntelliJ · Xcode · Postman
+Git · GitHub · AWS · Azure · Linux · VS Code · IntelliJ · Xcode · Postman, IntelliJ, Pycharm
 
 ---
 

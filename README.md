@@ -22,7 +22,7 @@ Node.js · Express · NestJS · FastAPI · Spring Boot · REST APIs · Django
 PostgreSQL · MySQL · MongoDB · Firebase
 
 **Tools & Environment**
-Git · GitHub · AWS · Azure · Linux · VS Code · IntelliJ · Xcode · Postman, IntelliJ, Pycharm
+Git · GitHub · AWS · Azure · Linux · VS Code · IntelliJ · Xcode · Postman · IntelliJ · Pycharm
 
 ---
 
